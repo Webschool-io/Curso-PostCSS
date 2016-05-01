@@ -25,3 +25,5 @@ Pensando um pouco mais em código, podemos imaginar um plugin que faz o cálculo
 
 Na maior parte do tempo, iremos utilizar plugins prontos, mas é sempre importante entender como a ferramenta funciona, para nos trazer mais confianca em nossos projetos, caso algo precise ser modificado.
 
+Próximo tópico: [Como utilizar](how.md)
+
