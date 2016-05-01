@@ -12,5 +12,7 @@ Todo e qualquer plugin utilizado dentro do pipeline do PostCSS, é criado separa
 
 Na maior parte do tempo, iremos utilizar o PostCSS de uma maneira muito semelhante ao que usamos nossos preprocessadores, com a diferenca da flexibilidade para modificar nossos plugins da maneira que melhor nos atende, e com uma performance muito maior.
 
+Próximo tópico: [Como um plugin funciona](plugins.md)
+
 
 
