@@ -5,8 +5,10 @@ Um ponto muito importante de ser considerado é como lidar com cada funcionalida
 
 Isso não quer dizer que é o melhor plugin, ou a abordagem mais fiel a funcionalidade migrada de um pré-processador. Esses plugins são atualizados, ou deixam de ser atualizados com o tempo. O que exige um pouco de curadoria. Mas já tem muita gente que separa esses plugins para nós não termos esse trabalho.
 
-1. Variáveis
-2. Seletores
-3. Separação de arquivos
-4. Condicionais
-5. Iteradores
+1. [Variáveis](variables.md)
+2. [Seletores](selectors.md)
+3. [Separação de arquivos](imports.md)
+4. [Condicionais](conditionals.md)
+5. [Iteradores](iterators)
+
+Próximo tópico: [Variáveis](variables.md)
