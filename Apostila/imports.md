@@ -36,4 +36,4 @@ Inicialmente, o PostCSS irá definir como base para buscar as folhas de estilo a
 
 Por utilizarmos o conceito de módulos do Node nesse plugin, é possível navegarmos pelas pastas do projeto, ou até mesmo da `node-modules` para importarmos uma folha de estilos.
 
-Próximo tópico: [Condicionais](conditionals.md)
+Próximo tópico: [Condicionais e Loops](conditionals-loops.md)
