@@ -68,4 +68,4 @@ A estrutura de loop nos ajuda a reduzir estilos baseados em iterações, como po
 .color-red { color: red; }
 ```
 
-Próximo tópico: [Funções, Mixins e Extends](functions.md)
+Próximo tópico: [Mixins e Extends](functions.md)
