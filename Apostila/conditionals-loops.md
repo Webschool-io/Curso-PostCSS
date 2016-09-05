@@ -42,7 +42,7 @@ $color: blue
 
 ## Loops
 
-Para este conceito, o plugin nos fornece dois tipos de iteração: `for` e `each`:
+A estrutura de loop nos ajuda a reduzir estilos baseados em iterações, como por exemplos cores, tamanhos e afins. Para este conceito, o plugin nos fornece dois tipos de iteração: `for` e `each`:
 
 ```sass
 @for $i from 1 to 3 {
@@ -65,7 +65,7 @@ Para este conceito, o plugin nos fornece dois tipos de iteração: `for` e `each
 // gera
 .color-blue { color: blue; }
 .color-green { color: green; }
-.color-green { color: green; }
+.color-red { color: red; }
 ```
 
 Próximo tópico: [Funções, Mixins e Extends](functions.md)
