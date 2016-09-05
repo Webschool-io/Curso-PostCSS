@@ -93,3 +93,5 @@ Podemos também estender estilos de regras comuns:
   border: 1px solid black;
 }
 ```
+
+Próximo tópico: [Considerações](considerations.md)
