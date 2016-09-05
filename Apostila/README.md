@@ -3,10 +3,9 @@
 - [O que é PostCSS](about.md)
  - [Como um plugin funciona](plugins.md) 
  - [Como utilizar](how.md)
-- [Features básicas](basics.md)
+- [Conceitos](basics.md)
  - [Variáveis](variables.md)
  - [Seletores](selectors.md)
  - [Separação de arquivos](imports.md)
- - [Condicionais](conditionals.md)
- - [Iteradores](iterators)
+ - [Condicionais e Loops](conditionals-loops.md)
 
