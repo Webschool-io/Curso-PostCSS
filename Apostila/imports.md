@@ -34,11 +34,6 @@ html, body {
 
 Inicialmente, o PostCSS irá definir como base para buscar as folhas de estilo a partir do (process.cwd()), mas isso pode ser mudado nas configurações do plugin.
 
-Por utilizarmos o conceito de módulos do Node nesse plugin, é possível navegarmos pelas pastas do projeto, ou até mesmo da `node-modules` para importarmos uma folha de estilos:
-
-```
-@import "styles/reset/base";
-@import "../styles/reset/base";
-```
+Por utilizarmos o conceito de módulos do Node nesse plugin, é possível navegarmos pelas pastas do projeto, ou até mesmo da `node-modules` para importarmos uma folha de estilos.
 
 Próximo tópico [Condicionais](conditionals.md)
