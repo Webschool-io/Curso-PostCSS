@@ -8,4 +8,5 @@
  - [Seletores](selectors.md)
  - [Separação de arquivos](imports.md)
  - [Condicionais e Loops](conditionals-loops.md)
+ - [Mixins e Extends](functions.md)
 
