@@ -9,5 +9,6 @@ Isso não quer dizer que é o melhor plugin, ou a abordagem mais fiel a funciona
 2. [Seletores](selectors.md)
 3. [Separação de arquivos](imports.md)
 4. [Condicionais e Loops](conditionals-loops.md)
+5. [Mixins e Extends](functions.md)
 
 Próximo tópico: [Variáveis](variables.md)
