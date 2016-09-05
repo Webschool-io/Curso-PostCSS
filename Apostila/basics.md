@@ -1,4 +1,4 @@
-# Features Básicas
+# Conceitos
 Como partimos de um cenário já desenvolvido de processamento de CSS (Com funcionalidades já estabelecidas), o primeiro passo é relembrarmos o que já existia, e que foi também implementado no PostCSS. Importante lembrar que os itens abordados não são todos existentes, são uma base.
 
 Um ponto muito importante de ser considerado é como lidar com cada funcionalidade. Iremos instalar um plugin para cada funcionalidade (Geralmente existe mais de um plugin para a mesma funcionalidade, mudando um pouco da abordagem). 
@@ -8,7 +8,6 @@ Isso não quer dizer que é o melhor plugin, ou a abordagem mais fiel a funciona
 1. [Variáveis](variables.md)
 2. [Seletores](selectors.md)
 3. [Separação de arquivos](imports.md)
-4. [Condicionais](conditionals.md)
-5. [Iteradores](iterators)
+4. [Condicionais e Loops](conditionals-loops.md)
 
 Próximo tópico: [Variáveis](variables.md)
