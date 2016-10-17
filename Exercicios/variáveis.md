@@ -1,6 +1,6 @@
 # Exercício do tema Variáveis
 
-## O objetivo é otimizar o seguinte trecho de CSS com o conteúdo da aula
+### O objetivo é otimizar o seguinte trecho de CSS com o conteúdo da aula
 
 ```scss
 .nav {
