@@ -17,7 +17,6 @@
 .input {
  border: 1px solid #26a69a;
  color: black;
-
  font-size: 14px;
  font-weight: 600;
 }
