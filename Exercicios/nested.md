@@ -3,10 +3,20 @@
 ### O objetivo é otimizar o seguinte trecho de CSS com o conteúdo da aula
 
 ```scss
+.form {
+  overflow: auto;
+}
+
+.form .button,
+.form .input {
+  width: 50%;
+  float: left;
+}
+
 .button {
- background-color: #26a69a;
+ background-color: $colorDefault;
  color: white;
- font-size: 14px;
+ font-size: $defaultFontSize;
  font-weight: 600;
 }
 
@@ -15,13 +25,25 @@
 }
 
 .input {
- border: 1px solid #26a69a;
+ border: 1px solid $colorDefault;
  color: black;
- font-size: 14px;
+ font-size: $defaultFontSize;
  font-weight: 600;
 }
 
 .input:focus {
- color: #26a69a;
+ color: $colorDefault;
 }
+
+.input-password {
+  border: red;
+}
+
+@media screen and (min-width: 600px) {
+  .form .button,
+  .form .input {
+    width: 100%;
+  }
+}
+
 ```
