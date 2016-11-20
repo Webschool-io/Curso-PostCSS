@@ -30,15 +30,6 @@
   }
 }
 
-.button-secondary {
-  background-color: #403075;
-  color: white;
-
-  &:hover {
-    background-color: #615192;
-  }
-}
-
 .button-info {
   background-color: #aaaa39;
   color: black;
